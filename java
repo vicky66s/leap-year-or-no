@@ -2,10 +2,10 @@ import java.util.Scanner;
 
 public class LeapYearChecker {
     public static void main(String[] args) {
-        // Create a Scanner object to read input from the user
+        // Create a Scanner object to read input from the user.
         Scanner scanner = new Scanner(System.in);
         
-        // Prompt the user to enter the year
+        // Prompt the user to enter the year.
         System.out.print("Please enter the year: ");
         int year = scanner.nextInt();
         
